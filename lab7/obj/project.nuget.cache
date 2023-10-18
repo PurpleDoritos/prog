@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ebShgyUbh/sasm67kSeGGQawocg6jnf8M9HE6S+NdGYk8DqQbRFCkOPNnh1Xxp6ciC5Ygfp2l0V/R7N9qyY0Yw==",
+  "success": true,
+  "projectFilePath": "/Users/vernold/Documents/Program/lab7/lectureAndLab7.csproj",
+  "expectedPackageFiles": [
+    "/Users/vernold/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/vernold/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/vernold/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

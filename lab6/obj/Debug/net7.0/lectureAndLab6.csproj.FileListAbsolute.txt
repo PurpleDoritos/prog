@@ -1,0 +1,15 @@
+/Users/vernold/Documents/Program/lab6/bin/Debug/net7.0/lectureAndLab6
+/Users/vernold/Documents/Program/lab6/bin/Debug/net7.0/lectureAndLab6.deps.json
+/Users/vernold/Documents/Program/lab6/bin/Debug/net7.0/lectureAndLab6.runtimeconfig.json
+/Users/vernold/Documents/Program/lab6/bin/Debug/net7.0/lectureAndLab6.dll
+/Users/vernold/Documents/Program/lab6/bin/Debug/net7.0/lectureAndLab6.pdb
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.csproj.AssemblyReference.cache
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.AssemblyInfoInputs.cache
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.AssemblyInfo.cs
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.csproj.CoreCompileInputs.cache
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.dll
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/refint/lectureAndLab6.dll
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.pdb
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/lectureAndLab6.genruntimeconfig.cache
+/Users/vernold/Documents/Program/lab6/obj/Debug/net7.0/ref/lectureAndLab6.dll
